@@ -1,0 +1,2 @@
+# Akadominio
+Script termux
